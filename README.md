@@ -1,1 +1,27 @@
 # 3x3NumPadExceptFor1Number
+
+#CAD model
+The model consists of 2 parts, the bottom one, which is the bottom of the project and the top one which holds everzthing in place.
+Everything's 3D printed, made in Autodesk Fusion.
+<img width="970" height="740" alt="image" src="https://github.com/user-attachments/assets/3a9d697f-9cac-4ee5-a649-692266cf4cd7" />
+
+#PCB model
+Everything made in KiCAD 10, done by following the tutorial
+Scheme
+<img width="907" height="876" alt="image" src="https://github.com/user-attachments/assets/ec96a7f5-10c6-4f7f-a9de-c5b09676fbff" />
+The actual design
+<img width="1231" height="845" alt="image" src="https://github.com/user-attachments/assets/521f496e-9c07-44f3-b9e3-7fcb1679676e" />
+Rotated the microcontroller for some reason :d
+
+#Firmware
+Used all QMK, well there wasn't much, just 9 keys
+
+#BOM
+Parts used:
+  9x Cherry MX Switches
+  9x DSA Keycaps
+  9x 1N4148 DO-35 Diodes
+  1x XIAO RP2040
+  1x Case (2 printed parts)
+  4x Some screws, idk what kind, just the fitting ones, ykyk.
+  4x Mb some heatset inserts so screws will hold, but still don't know what ones.
