@@ -3,7 +3,8 @@ This is a 3x3 pad, specifically for my use numpad, without one number, yeah... C
 # CAD model
 The model consists of 2 parts, the bottom one, which is the bottom of the project and the top one which holds everzthing in place.
 Everything's 3D printed, made in Autodesk Fusion.
-<img width="970" height="740" alt="image" src="https://github.com/user-attachments/assets/3a9d697f-9cac-4ee5-a649-692266cf4cd7" />
+<img width="953" height="640" alt="image" src="https://github.com/user-attachments/assets/54c6f44f-ba78-4367-84af-1908fe578a26" />
+
 
 # PCB model
 Everything made in KiCAD 10, done by following the tutorial
